@@ -5,7 +5,7 @@ A discrepancy in the number of votes cast for governor and senator in in Broward
 
 This analysis of votes cast suggests that ballot design could indeed be responsible for a substantial difference in the number of votes cast between the race for governor and the race for senator in Florida, meaning thousands of voters there may have missed their chance to weigh in on the Senate race. 
 
-Several resulting stories from this analysis can be found here:
-https://www.cnn.com/2018/11/08/politics/broward-county-vote-counting-recount/index.html
+Several resulting stories from this analysis can be found here:  
+https://www.cnn.com/2018/11/08/politics/broward-county-vote-counting-recount/index.html  
 https://www.cnn.com/2018/11/09/politics/broward-county-ballot-difference/index.html
 
